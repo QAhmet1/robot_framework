@@ -1,0 +1,18 @@
+# --- Robot Framework Outputs ---
+results/
+*.xml
+*.html
+*.png
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Python & Environment ---
+__pycache__/
+*.pyc
+venv/
+.env
+
+# --- Sensitive Data (Optional but Professional) ---
+# data/environment.yaml

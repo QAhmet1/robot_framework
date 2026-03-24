@@ -1,0 +1,15 @@
+default:
+  base_url: "https://www.saucedemo.com"
+  browser: "chrome"
+  timeout: 10s
+
+user_data:
+  standard:
+    user: "standard_user"
+    pass: "secret_sauce"
+  locked:
+    user: "locked_out_user"
+    pass: "secret_sauce"
+  problem:
+    user: "problem_user"
+    pass: "secret_sauce"
